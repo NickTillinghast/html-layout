@@ -1,0 +1,80 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: aliceblue;
+}
+
+.top-box {
+    background-color: rgb(251, 251, 253);
+    height: 203px;
+    width: 1500px;
+    outline: solid;
+}
+
+.purple-box {
+    background: purple;
+    height: 137px;
+    width: 50px;
+    float: left;
+    margin: 45px;
+    margin-left: 12px;
+    
+}
+
+.green-box {
+    background: green;
+    height: 160px;
+    width: 400px;
+    float: left;
+    margin: 10px;
+}
+
+.circle-box {
+    background: lightblue;
+    height: 160px;
+    width: 160px;
+    float: left;
+    border-radius: 50%;
+    margin: 20px;
+    margin-left: 20px;
+}
+
+.box-two {
+    background: rgb(247, 250, 250);
+    height: 250px;
+    width: 1500px;
+    border: 2px dotted #000;
+    margin: 15px;
+
+
+}
+
+.inner-box {
+    background: rgb(226, 226, 177);
+    width: 1190px;
+    height: 120px;
+    margin: 40px;
+    padding: 20px;
+
+    
+
+}
+
+.last-box {
+    background: rgb(247, 246, 244);
+    width: 80vh;
+    height: 300px;
+    margin: 40px;
+    box-shadow: 5px 6px rgb(114, 107, 107);
+    margin: 0 auto;
+    display: flex;
+
+
+
+}
+
+.text {
+    margin: auto;
+    font-size: 30px;
+
+}
